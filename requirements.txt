@@ -1,0 +1,30 @@
+# Core
+opencv-python==4.8.1.78
+numpy==1.24.3
+pandas==2.0.3
+
+# Web UI
+streamlit==1.28.0
+
+# Face Recognition
+insightface==0.7.3
+onnxruntime==1.16.1
+
+# Database
+redis==5.0.1
+
+# Visualization
+matplotlib==3.7.2
+
+# Image processing
+Pillow==10.0.1
+
+# ML utilities
+scikit-learn==1.3.0
+scipy==1.11.3
+
+# Face landmark / dlib (optional, used for EAR blink detection fallback)
+dlib==19.24.2
+
+# Environment variable loading
+python-dotenv==1.0.0
